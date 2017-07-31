@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MakeSchoolNotes/Controllers/ListNotesTableViewController.swift"
+            timestampString = "523172946.18142"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MakeSchoolNotes.ListNotesTableViewController.prepare (for : __ObjC.UIStoryboardSegue, sender : Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "MakeSchoolNotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chuangke-2/Downloads/MakeSchoolNotes-Swift-V2-Starter-swift3-coredata/Makenotes/MakeSchoolNotes/Controllers/ListNotesTableViewController.swift"
+                  timestampString = "523181426.565971"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MakeSchoolNotes.ListNotesTableViewController.prepare (for : __ObjC.UIStoryboardSegue, sender : Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "MakeSchoolNotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chuangke-2/Downloads/MakeSchoolNotes-Swift-V2-Starter-swift3-coredata/Makenotes/MakeSchoolNotes/Controllers/ListNotesTableViewController.swift"
+                  timestampString = "523181426.568741"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "233">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MakeSchoolNotes/Controllers/ListNotesTableViewController.swift"
+            timestampString = "523173088.816088"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MakeSchoolNotes/Controllers/GoodViewController.swift"
+            timestampString = "523174861.526328"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "GoodViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MakeSchoolNotes/Controllers/DisplayNoteViewController.swift"
+            timestampString = "523183631.83938"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MakeSchoolNotes/AppDelegate.swift"
+            timestampString = "523181323.850469"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "persistentContainer"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MakeSchoolNotes.AppDelegate.persistentContainer.getter : __ObjC.NSPersistentContainer"
+                  moduleName = "MakeSchoolNotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chuangke-2/Downloads/MakeSchoolNotes-Swift-V2-Starter-swift3-coredata/Makenotes/MakeSchoolNotes/AppDelegate.swift"
+                  timestampString = "523183023.959872"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MakeSchoolNotes.AppDelegate.persistentContainer.setter : __ObjC.NSPersistentContainer"
+                  moduleName = "MakeSchoolNotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chuangke-2/Downloads/MakeSchoolNotes-Swift-V2-Starter-swift3-coredata/Makenotes/MakeSchoolNotes/AppDelegate.swift"
+                  timestampString = "523183023.962287"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MakeSchoolNotes.AppDelegate.(persistentContainer.getter : __ObjC.NSPersistentContainer).(closure #1)"
+                  moduleName = "MakeSchoolNotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chuangke-2/Downloads/MakeSchoolNotes-Swift-V2-Starter-swift3-coredata/Makenotes/MakeSchoolNotes/AppDelegate.swift"
+                  timestampString = "523183023.965255"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MakeSchoolNotes.AppDelegate.init () -&gt; MakeSchoolNotes.AppDelegate"
+                  moduleName = "MakeSchoolNotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chuangke-2/Downloads/MakeSchoolNotes-Swift-V2-Starter-swift3-coredata/Makenotes/MakeSchoolNotes/AppDelegate.swift"
+                  timestampString = "523183023.96832"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MakeSchoolNotes/AppDelegate.swift"
+            timestampString = "523181333.306048"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "persistentContainer"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MakeSchoolNotes/AppDelegate.swift"
+            timestampString = "523182697.415979"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "persistentContainer"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MakeSchoolNotes/Controllers/DisplayNoteViewController.swift"
+            timestampString = "523183631.83938"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MakeSchoolNotes.DisplayNoteViewController.prepare (for : __ObjC.UIStoryboardSegue, sender : Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "MakeSchoolNotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chuangke-2/Downloads/MakeSchoolNotes-Swift-V2-Starter-swift3-coredata/Makenotes/MakeSchoolNotes/Controllers/DisplayNoteViewController.swift"
+                  timestampString = "523183448.598818"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "2596">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MakeSchoolNotes.DisplayNoteViewController.(prepare (for : __ObjC.UIStoryboardSegue, sender : Swift.Optional&lt;Any&gt;) -&gt; ()).(implicit closure #4)"
+                  moduleName = "MakeSchoolNotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chuangke-2/Downloads/MakeSchoolNotes-Swift-V2-Starter-swift3-coredata/Makenotes/MakeSchoolNotes/Controllers/DisplayNoteViewController.swift"
+                  timestampString = "523183448.601784"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "11">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
